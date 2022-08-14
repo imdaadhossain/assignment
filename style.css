@@ -1,0 +1,43 @@
+body {
+    font-family: 'Lora', serif;
+    font-family: 'Prata', serif;
+
+}
+
+h1 {
+    font-size: 50px;
+}
+
+h2 {}
+
+.orange-color {
+    color: orange;
+}
+
+.heading {
+    text-align: center;
+}
+
+.link-button {
+    text-decoration: none;
+    background-color: red;
+    padding: 10px 40px;
+    color: white;
+    font-weight: 700;
+    border-radius: 5px;
+}
+
+#page-border {
+    border-left: 7px solid;
+    border-color: orange;
+    border-image-slice: 1;
+}
+
+.half-width {
+    width: 50%;
+    padding-left: 2%;
+}
+
+.half-width img {
+    width: 80%;
+}
